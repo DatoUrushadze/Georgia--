@@ -1,0 +1,45 @@
+
+	<section class="destination" id="destination">
+		<div class="title">
+			<h2> <br> </h2>
+		</div>
+
+		<div class="destination-content">
+			<div class="col-content">
+				<img src="">
+				<h5></h5>
+				<p></p>
+			</div>
+
+			<div class="col-content">
+				<img src="">
+				<h5></h5>
+				<p></p>
+			</div>
+
+			<div class="col-content">
+				<img src="">
+				<h5></h5>
+				<p></p>
+			</div>
+
+			<div class="col-content">
+				<img src="">
+				<h5></h5>
+				<p></p>
+			</div>
+
+			<div class="col-content">
+				<img src="">
+				<h5></h5>
+				<p></p>
+			</div>
+
+			<div class="col-content">
+				<img src="">
+				<h5></h5>
+				<p></p>
+			</div>
+
+		</div>
+	</section>
